@@ -6,19 +6,21 @@
 
 ## 🌐 Live Preview
 
-> [www.pier24garden.gt.tc/](https://pier24garden.gt.tc) *(update with live URL)*
+> [www.pier24garden.gt.tc/](https://pier24garden.gt.tc) 
 
 ---
 
 ## 📸 Screenshots
 
-> *(Add screenshots here once live — homepage hero, carousel, gallery, contact form)*
 <img width="1905" height="903" alt="image" src="https://github.com/user-attachments/assets/cb7872ee-2f46-4a44-9e00-716bc2ba233b" />
 <img width="1896" height="903" alt="image" src="https://github.com/user-attachments/assets/7241f71e-da36-4c3f-950b-a46e0ec9080a" />
 <img width="1904" height="912" alt="image" src="https://github.com/user-attachments/assets/6b4cf9c8-b694-48d5-8ece-196a7801e009" />
 <img width="1905" height="909" alt="image" src="https://github.com/user-attachments/assets/6a7d34f9-dd2c-4197-88a5-fa538db40469" />
 <img width="1902" height="903" alt="image" src="https://github.com/user-attachments/assets/2cad6151-d93a-4d8b-a47d-78ce3b2d4983" />
+<img width="1902" height="903" alt="image" src="https://github.com/user-attachments/assets/8dae1add-e6ed-499d-a014-cb0a4612219c" />
 <img width="1897" height="904" alt="image" src="https://github.com/user-attachments/assets/13c74afe-2a92-4c8f-9625-4cf89ff30b40" />
+<img width="1897" height="793" alt="image" src="https://github.com/user-attachments/assets/5636ec61-7201-4a6a-9488-b72930c3804d" />
+
 
 
 
